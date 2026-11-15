@@ -1,0 +1,10 @@
+{
+  "name": "Scene Shadow: Stuart Little",
+  "description": "Mobile-first English shadowing practice app using a scene from Stuart Little (1999) for non-commercial educational listening and speaking practice.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
